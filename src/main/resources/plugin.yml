@@ -1,0 +1,6 @@
+authors: [nevesbr6, shauuu_]
+name: LegendsLobby
+version: 1.0
+depend: [LegendsCore]
+
+main: dev.redelegends.lobby.Main
