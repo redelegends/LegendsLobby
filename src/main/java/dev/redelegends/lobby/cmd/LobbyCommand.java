@@ -1,7 +1,7 @@
 package dev.redelegends.lobby.cmd;
 
-import dev.redelegends.lobby.cmd.LL.*;
 import dev.redelegends.lobby.Main;
+import dev.redelegends.lobby.cmd.ll.*;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 

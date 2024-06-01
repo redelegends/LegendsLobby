@@ -60,3 +60,8 @@ processResources {
         expand props
     }
 }
+
+jar {
+    archiveBaseName.set('LegendsLobby')
+    archiveVersion.set('')
+}

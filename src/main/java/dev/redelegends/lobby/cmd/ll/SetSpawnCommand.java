@@ -1,4 +1,4 @@
-package dev.redelegends.lobby.cmd.LL;
+package dev.redelegends.lobby.cmd.ll;
 
 import dev.redelegends.Core;
 import dev.redelegends.lobby.Main;

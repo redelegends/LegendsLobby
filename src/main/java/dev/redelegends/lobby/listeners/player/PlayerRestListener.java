@@ -1,7 +1,7 @@
 package dev.redelegends.lobby.listeners.player;
 
 import dev.redelegends.game.Game;
-import dev.redelegends.lobby.cmd.LL.BuildCommand;
+import dev.redelegends.lobby.cmd.ll.BuildCommand;
 import dev.redelegends.player.Profile;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;

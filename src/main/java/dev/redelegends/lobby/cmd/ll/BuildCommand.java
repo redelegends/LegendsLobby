@@ -1,4 +1,4 @@
-package dev.redelegends.lobby.cmd.LL;
+package dev.redelegends.lobby.cmd.ll;
 
 import dev.redelegends.lobby.cmd.SubCommand;
 import org.bukkit.GameMode;
